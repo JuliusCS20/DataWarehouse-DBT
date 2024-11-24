@@ -2,4 +2,6 @@
 target/
 dbt_packages/
 logs/
+dbt_dibimbing/cred/service_account.json
+*.json
 cred/
